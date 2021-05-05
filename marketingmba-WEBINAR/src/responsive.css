@@ -17,6 +17,7 @@
 	}
 	.tooltext {	
 		width: auto;
+	}
 }
 @media screen and (max-width:460px) {
 	.calc_field.small {
