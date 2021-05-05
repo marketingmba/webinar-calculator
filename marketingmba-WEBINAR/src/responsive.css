@@ -15,8 +15,13 @@
 		width: 100%;
 		max-width: 100%;
 	}
-	.tooltext {	
+	.tooltext {
+		left: 52%;
+    		top: -10px;	
 		width: auto;
+	}
+	.tooltip_wrap {
+		display: block;
 	}
 }
 @media screen and (max-width:460px) {
@@ -31,12 +36,5 @@
 		width: 150px;
 		max-width: 150px;
 	}
-	.tooltext {
-		left: 52%;
-    		top: -10px;	
-		width: auto;
-	}
-	.tooltip_wrap {
-		display: block;
-	}
+
 }
