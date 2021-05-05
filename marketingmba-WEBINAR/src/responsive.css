@@ -15,18 +15,10 @@
 		width: 100%;
 		max-width: 100%;
 	}
-	.tooltext {
-		left: 52%;
-    		top: -10px;	
-		width: auto;
-	}
-	.tooltip_wrap {
-		display: block;
-	}
 	.calc_field_wrap.medium_5 {
 		width: 150px;
 		max-width: 150px;
-	}
+	}	
 }
 @media screen and (max-width:460px) {
 	.calc_field.small {
@@ -37,5 +29,15 @@
 		max-width: 100%;
 	}
 
+}
 
+@media screen and (max-width:600px) {
+	.tooltext {
+		left: 52%;
+    		top: -10px;	
+		width: auto;
+	}
+	.tooltip_wrap {
+		display: block;
+	}
 }
