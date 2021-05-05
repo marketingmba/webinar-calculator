@@ -130,8 +130,9 @@ select option {
     width: 150px;
 }
 .calc_field_wrap.medium_5 {
-    width: 41.66667%;
-    max-width: 41.66667%;
+		width: 150px;
+		max-width: 150px;
+	}
     margin-bottom: 20px;
 }
 .calc_field_wrap.medium_4 {
