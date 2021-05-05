@@ -23,6 +23,10 @@
 	.tooltip_wrap {
 		display: block;
 	}
+	.calc_field_wrap.medium_5 {
+		width: 150px;
+		max-width: 150px;
+	}
 }
 @media screen and (max-width:460px) {
 	.calc_field.small {
@@ -32,9 +36,6 @@
 		width: 100%;
 		max-width: 100%;
 	}
-	.calc_field_wrap.medium_5 {
-		width: 150px;
-		max-width: 150px;
-	}
+
 
 }
