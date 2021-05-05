@@ -27,4 +27,12 @@
 		width: 150px;
 		max-width: 150px;
 	}
+	.tooltext {
+		left: 52%;
+    		top: -10px;	
+		width: auto;
+	}
+	.tooltip_wrap {
+		display: block;
+	}
 }
