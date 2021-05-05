@@ -132,6 +132,7 @@ select option {
 .calc_field_wrap.medium_5 {
     width: 41.66667%;
     max-width: 41.66667%;
+    margin-bottom: 20px;
 }
 .calc_field_wrap.medium_4 {
     width: 250px;
