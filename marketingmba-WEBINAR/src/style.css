@@ -141,7 +141,7 @@ select option {
     max-width: 94%;
 }
 .calc_field.small {
-    width: 50%;
+    width: 100%;
     /* padding: 0 30px; */
 }
 span.calc_description {
